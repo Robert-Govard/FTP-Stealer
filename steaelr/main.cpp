@@ -8,6 +8,12 @@ using namespace std;
 
 int a;
 
+// Do stealer in another file!
+
+
+
+
+
 void createFile()
 {
     ofstream upload ("C:\\Shit.txt");

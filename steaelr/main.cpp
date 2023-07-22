@@ -8,7 +8,7 @@ using namespace std;
 
 int a;
 
-// Do stealer in another file! 454
+// Do stealer in another file!
 
 
 
